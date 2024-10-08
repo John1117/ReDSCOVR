@@ -19,7 +19,7 @@ This project, developed during the 2023 NASA Hackathon, used Long Short Term Mem
 
 ## Getting Started
 
-### Prerequisites
+## Prerequisites
 - Python 3.x
 - `numpy`
 - `pandas`
