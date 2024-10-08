@@ -17,8 +17,6 @@ This project, developed during the 2023 NASA Hackathon, used Long Short Term Mem
 - `analysis/`: Scripts for gradient and set-to-NaN input importance analysis.
 - `visualization/`: Functions for plotting model predictions and analysis results.
 
-## Getting Started
-
 ## Prerequisites
 - Python 3.x
 - `numpy`
